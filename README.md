@@ -11,6 +11,7 @@ El ejercicio consta de cuatro fases:
 Archivos entregables:
 
 - Análisis UX: [Archivo PDF](https://github.com/agdwm/03_KC_UX_Entrega/blob/master/)
-- Prototipo (Balsamiq) - Archivos PDF Interactivos (Descargar para probar)
-	- Landscape: [Archivo PDF](https://github.com/agdwm/03_KC_UX_Entrega/blob/master/01_prototipo_atrapalo.pdf)
-	- Fullscreen: [Archivo PDF](https://github.com/agdwm/03_KC_UX_Entrega/blob/master/02_prototipo_atrapalo_fullscreen.pdf)
+- Prototipo (Balsamiq) - Archivo PDF Interactivo 
+	- Fullscreen: [Archivo PDF](https://github.com/agdwm/03_KC_UX_Entrega/blob/master/01_prototipo_atrapalo_fullscreen.pdf) (Descargar para probar)
+- Prototipo (Balsama) - Archivo "bmpr" exportado desde balsamiq.cloud (trial version)
+	- [Archivo BMPR] (https://github.com/agdwm/03_KC_UX_Entrega/blob/master/02_prototipo_balsamiq.bmpr)
