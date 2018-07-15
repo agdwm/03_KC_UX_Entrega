@@ -13,5 +13,5 @@ Archivos entregables:
 - Análisis UX: [Archivo PDF](https://github.com/agdwm/10_KC_UX_Entrega/blob/master/00_analisis_ux_atrapalo.pdf)
 - Prototipo (Balsamiq) - Archivo PDF Interactivo 
 	- Fullscreen: [Archivo PDF](https://github.com/agdwm/10_KC_UX_Entrega/blob/master/01_prototipo_atrapalo_fullscreen.pdf) (Descargar para probar)
-- Prototipo (Balsama) - Archivo "bmpr" exportado desde balsamiq.cloud (trial version)
+- Prototipo (Balsamiq) - Archivo "bmpr" exportado desde balsamiq.cloud (trial version)
 	- [Archivo BMPR] (https://github.com/agdwm/10_KC_UX_Entrega/blob/master/02_prototipo_balsamiq.bmpr) (Descargar para importar desde Balsamiq)
